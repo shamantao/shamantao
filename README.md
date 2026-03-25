@@ -49,4 +49,6 @@ I believe in simplicity, ecological integrity, and the power of collective intel
 I develop open-source tools using AI-assisted workflows. It's costly, but it's for the common good.  
 Any help is welcome — financially or through partnership proposals.
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="shamantao" data-color="#40DCA5" data-emoji="🍵"  data-font="Comic" data-text="Buy me a tea" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-shamantao-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/shamantao)
