@@ -1,6 +1,7 @@
 # Hey there 👋 I'm shamantao
 
 > *Leaving on Earth, curious, free and smiling*
+
 I am a world citizen and a builder driven by a simple conviction: technology should serve human dignity, not exploit it. My work focuses on creating private and local-first AI tools that empower individuals to regain independence over their data.
 Rooted in the values of listening and resilience, I approach every project—from environmental solutions to personal & professional coaching—with a commitment to clarity and independent thinking.
 For me, emotions and human connection must always prevail over the tools we use.
