@@ -1,10 +1,11 @@
 # Hey there 👋 I'm shamantao
 
 > *Leaving on Earth, curious, free and smiling*
-
-I'm an independent developer at **Aurica Circular**, building local-first, privacy-focused tools powered by AI — without feeding the cloud.
-
-I believe software should respect your data, your hardware, and the planet.
+I am a world citizen and a builder driven by a simple conviction: technology should serve human dignity, not exploit it. My work focuses on creating private and local-first AI tools that empower individuals to regain independence over their data.
+Rooted in the values of listening and resilience, I approach every project—from environmental solutions to personal & professional coaching—with a commitment to clarity and independent thinking.
+For me, emotions and human connection must always prevail over the tools we use.
+I believe in simplicity, ecological integrity, and the power of collective intelligence to reduce suffering and foster a more empathetic world.
+- By supporting my work, you are helping to develop alternative paths that respect both our cultures and our planet’s limits. Everyone does what they can at best.
 
 ---
 
