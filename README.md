@@ -18,14 +18,13 @@ I believe in simplicity, ecological integrity, and the power of collective intel
 
 `python` `ollama` `rag` `meilisearch` `semantic-search` `privacy` `local-first`
 
-### [Indexao](https://github.com/shamantao/indexao) — Universal File Indexer
-> Modular aggregator of open-source tools for indexing, searching, and translating any file type.
-
 ### [genWtao-app](https://github.com/shamantao/genWtao-app) — Website Generator
 > Website management via Logseq and Hugo.
 
 ### [Docker Manager](https://github.com/shamantao/docker-manager) — Docker CLI &amp; TUI
 > A fast, practical Docker project manager with a CLI and TUI dashboard. Made in Go.
+
+### others...
 
 ---
 
