@@ -12,7 +12,7 @@ I believe in simplicity, ecological integrity, and the power of collective intel
 
 ## 🔭 What I'm working on
 
-### [AiTao](https://github.com/shamantao/aitao) — Local AI Document Assistant
+### [AiTao](https://github.com/Aurica-Circular/AiTao)) — Local AI Document Assistant
 > Semantic search across your private files in any language or format.  
 > No cloud, no data leaks. Built on consumer hardware to minimize ecological footprint.
 
@@ -39,7 +39,7 @@ I believe in simplicity, ecological integrity, and the power of collective intel
 
 ## 💬 Let's connect
 
-- 🏢 [Aurica Circular](https://github.com/shamantao)
+- 🏢 [Aurica Circular](https://auricacircular.com/en/contact/)
 - 📍 Earth
 
 ---
@@ -49,4 +49,4 @@ I believe in simplicity, ecological integrity, and the power of collective intel
 I develop open-source tools using AI-assisted workflows. It's costly, but it's for the common good.  
 Any help is welcome — financially or through partnership proposals.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-shamantao-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/shamantao)
+[![Buy Me a Bubble Tea](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-shamantao-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/shamantao)
