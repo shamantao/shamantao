@@ -12,14 +12,14 @@ I believe in simplicity, ecological integrity, and the power of collective intel
 
 ## 🔭 What I'm working on
 
-### [AiTao](https://github.com/Aurica-Circular/AiTao)) — Local AI Document Assistant
+### [AiTao](https://github.com/Aurica-Circular/AiTao) — Local AI Document Assistant
 > Semantic search across your private files in any language or format.  
 > No cloud, no data leaks. Built on consumer hardware to minimize ecological footprint.
 
 `python` `ollama` `rag` `meilisearch` `semantic-search` `privacy` `local-first`
 
-### [genWtao-app](https://github.com/shamantao/genWtao-app) — Website Generator
-> Website management via Logseq and Hugo.
+### [genWtao-app](https://github.com/shamantao/genWtao-app) — Particular Website Generator
+> Website management with [Logseq MD](https://logseq.com) and Hugo.
 
 ### [Docker Manager](https://github.com/shamantao/docker-manager) — Docker CLI &amp; TUI
 > A fast, practical Docker project manager with a CLI and TUI dashboard. Made in Go.
